@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/spinfal/areacalc)](https://repl.it/github/spinfal/areacalc)<br>
 # the fake tiktok bot
 this is clearly fake.<br>
 i only made this for fun and trolling purposes.<br>
