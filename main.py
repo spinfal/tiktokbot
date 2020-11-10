@@ -8,18 +8,18 @@ choice = input(cl('> ', 'white'))
 
 if choice == '1':
   print(cl('loading...', 'cyan'))
-  os.system('python3 likes.py')
+  os.system('python3 files/likes.py')
 elif choice == '2':
   print(cl('loading...', 'cyan'))
-  os.system('python3 follows.py')
+  os.system('python3 files/follows.py')
 elif choice == '3':
   print(cl('loading...', 'cyan'))
-  os.system('python3 views.py')
+  os.system('python3 files/views.py')
 elif choice == '4':
   print(cl('loading...', 'cyan'))
-  os.system('python3 shares.py')
+  os.system('python3 files/shares.py')
 elif choice == '5':
-  os.system('python3 about.py')
+  os.system('python3 files/about.py')
 else:
   print(cl(choice + ' is an invalid choice.', 'red'))
   t.sleep(2)
